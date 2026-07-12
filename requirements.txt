@@ -1,0 +1,4 @@
+xarray
+pandas
+numcodecs
+zarr
