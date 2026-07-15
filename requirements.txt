@@ -2,3 +2,4 @@ xarray
 pandas
 numcodecs
 zarr
+dask
