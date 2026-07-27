@@ -1,3 +1,7 @@
+# Bulk data -- everything under data/ (raw, processed, caches) is multi-GB.
+# See README.md for the directory layout.
+data/
+
 # Data files
 *.nc
 *.zarr
@@ -7,12 +11,20 @@
 *.grib
 *.grb
 
+# Model checkpoints and array dumps (results/models/, training caches)
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+
 # Virtual environments
 venv/
 env/
 .venv/
 .env/
 ENV/
+stsenv/
 
 # Python cache and compiled files
 __pycache__/

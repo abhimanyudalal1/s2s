@@ -1,6 +1,6 @@
 import numcodecs
 
-with open('/Users/abhimanyu/Desktop/s2s/IMD_rainfall_0p25.zarr/time/1', 'rb') as f:
+with open('/Users/abhimanyu/Desktop/s2s/data/raw/IMD_rainfall_0p25.zarr/time/1', 'rb') as f:
     data = f.read()
 
 try:

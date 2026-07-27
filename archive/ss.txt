@@ -1,0 +1,11 @@
+normalize
+
+valid time check
+
+doy matrix
+
+clim_grid
+
+=================
+
+prepare
