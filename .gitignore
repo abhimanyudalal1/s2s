@@ -36,3 +36,7 @@ __pycache__/
 
 # OS generated files
 .DS_Store
+
+/figures_that_need_figuring
+/last_model_preds
+/extreme_weighted
